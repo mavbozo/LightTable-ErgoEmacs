@@ -1,6 +1,6 @@
 {:name "ErgoEmacs Qwerty keybindings"
  :author "Avicenna"
- :version "0.0.1"
- :source "https://github.com/mavbozo/LightTable-ErgoEmacs"
+ :version "0.0.2"
+ :source "https://github.com/mavbozo/LightTable-ErgoEmacs-Qwerty"
  :desc "ErgoEmacs Qwerty keybindings for Light Table"
  :behaviors "plugin.behaviors"}
