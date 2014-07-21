@@ -1,4 +1,4 @@
-goog.provide("lt.plugins.ergoemacs");
+goog.provide("lt.plugins.ergoemacs_qwerty");
 goog.require("cljs.core");
 goog.require("lt.util.cljs");
 goog.require("lt.util.cljs");

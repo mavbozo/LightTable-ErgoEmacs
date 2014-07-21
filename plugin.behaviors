@@ -5,7 +5,7 @@
             (:lt.objs.plugins/load-keymap "plugin.keymap")
             ]
 
-      :editor [(:lt.object/shadow-tag :editor.keys.normal :editor.keys.ergoemacs-dv)]
+      :editor [(:lt.object/shadow-tag :editor.keys.normal :editor.keys.ergoemacs-qwerty)]
      }
 
  ;; You can use the subtract key to remove behavior that may get added by

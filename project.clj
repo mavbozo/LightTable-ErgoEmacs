@@ -1,5 +1,5 @@
-(defproject lt-ergoemacs-dv "0.0.1"
-  :description "ErgoEmacs Dvorak keybindings for Light Table"
+(defproject lt-ergoemacs-qwerty "0.0.1"
+  :description "ErgoEmacs Qwerty keybindings for Light Table"
   :plugins [[lein-cljsbuild "1.0.0-alpha2"]]
   :cljsbuild {
   :builds [
