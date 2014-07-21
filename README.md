@@ -1,5 +1,5 @@
-LightTable-ErgoEmacs
-====================
+LightTable-ErgoEmacs-Qwerty
+===========================
 
 ErgoEmacs keybindings for Light Table. QWERTY keyboard only
 
